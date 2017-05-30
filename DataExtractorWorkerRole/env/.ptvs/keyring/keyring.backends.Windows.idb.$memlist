@@ -1,0 +1,12 @@
+OldPywinError
+win32cred
+properties
+text_type
+ExceptionRaisedContext
+unicode_literals
+PasswordDeleteError
+WinVaultKeyring
+pywintypes
+functools
+KeyringBackend
+has_pywin32

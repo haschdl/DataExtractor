@@ -1,0 +1,5 @@
+unittest
+BackendBasicTests
+DBusKWalletTestCase
+DBusKWallet4TestCase
+kwallet

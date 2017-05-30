@@ -1,0 +1,6 @@
+{
+  "azure": {
+    "account_name": "azurestorageaccountname",
+    "account_key": "azurestoragekey"
+  }
+}

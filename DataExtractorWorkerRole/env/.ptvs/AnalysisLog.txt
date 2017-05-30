@@ -1,0 +1,1284 @@
+﻿
+2017-05-18T22:23:53: Start analysis
+2017-05-18T22:23:53: [WARNING] Library was set explicitly - skipping path detection
+2017-05-18T22:23:53: IncludeModulesFromModulePath = win32com
+2017-05-18T22:23:53: Deleting 0 files
+2017-05-18T22:23:53: Scraping builtin modules
+2017-05-18T22:23:53: Command: "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-05-18T22:23:55: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-05-18T22:23:55: Scraped builtin modules
+2017-05-18T22:23:55: Scraping _cffi_backend
+2017-05-18T22:23:55: Command: "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape _cffi_backend "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages" "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\_cffi_backend"
+2017-05-18T22:23:55: Scraped 1 files
+2017-05-18T22:23:55: astropy.CallDepth = 0
+2017-05-18T22:23:55: matplotlib.CallDepth = 3
+2017-05-18T22:23:55: pandas.CallDepth = 0
+2017-05-18T22:23:55: sympy.CallDepth = 0
+2017-05-18T22:23:55: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages" with 3 files
+2017-05-18T22:23:55: Parsing "easy_install" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\easy_install.py")
+2017-05-18T22:23:55: Parsing "pyparsing" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pyparsing.py")
+2017-05-18T22:23:55: Parsing "six" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\six.py")
+2017-05-18T22:23:55: Parsing complete
+2017-05-18T22:23:55: Analyzing "easy_install"
+2017-05-18T22:23:55: Analyzing "pyparsing"
+2017-05-18T22:23:56: Analyzing "six"
+2017-05-18T22:23:56: Starting analysis of 3 modules
+2017-05-18T22:24:00: Analysis complete
+2017-05-18T22:24:00: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages"
+2017-05-18T22:24:01: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages"
+2017-05-18T22:24:01: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto" with 27 files
+2017-05-18T22:24:01: Parsing "asn1crypto.algos" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\algos.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.cms" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\cms.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.core" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\core.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.crl" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\crl.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.csr" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\csr.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.keys" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\keys.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.ocsp" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\ocsp.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.parser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\parser.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.pdf" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\pdf.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.pem" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\pem.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.pkcs12" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\pkcs12.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.tsp" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\tsp.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\util.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\version.py")
+2017-05-18T22:24:01: Parsing "asn1crypto.x509" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\x509.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._elliptic_curve" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_elliptic_curve.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._errors" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_errors.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._ffi" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_ffi.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._inet" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_inet.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._int" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_int.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._iri" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_iri.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._ordereddict" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_ordereddict.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._teletex_codec" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_teletex_codec.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._types" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_types.py")
+2017-05-18T22:24:01: Parsing "asn1crypto" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\__init__.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._perf._big_num_ctypes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_perf\_big_num_ctypes.py")
+2017-05-18T22:24:01: Parsing "asn1crypto._perf" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto\_perf\__init__.py")
+2017-05-18T22:24:01: Parsing complete
+2017-05-18T22:24:01: Analyzing "asn1crypto.algos"
+2017-05-18T22:24:01: Analyzing "asn1crypto.cms"
+2017-05-18T22:24:01: Analyzing "asn1crypto.core"
+2017-05-18T22:24:01: Analyzing "asn1crypto.crl"
+2017-05-18T22:24:01: Analyzing "asn1crypto.csr"
+2017-05-18T22:24:01: Analyzing "asn1crypto.keys"
+2017-05-18T22:24:01: Analyzing "asn1crypto.ocsp"
+2017-05-18T22:24:01: Analyzing "asn1crypto.parser"
+2017-05-18T22:24:01: Analyzing "asn1crypto.pdf"
+2017-05-18T22:24:01: Analyzing "asn1crypto.pem"
+2017-05-18T22:24:01: Analyzing "asn1crypto.pkcs12"
+2017-05-18T22:24:01: Analyzing "asn1crypto.tsp"
+2017-05-18T22:24:01: Analyzing "asn1crypto.util"
+2017-05-18T22:24:01: Analyzing "asn1crypto.version"
+2017-05-18T22:24:01: Analyzing "asn1crypto.x509"
+2017-05-18T22:24:01: Analyzing "asn1crypto._elliptic_curve"
+2017-05-18T22:24:01: Analyzing "asn1crypto._errors"
+2017-05-18T22:24:01: Analyzing "asn1crypto._ffi"
+2017-05-18T22:24:01: Analyzing "asn1crypto._inet"
+2017-05-18T22:24:01: Analyzing "asn1crypto._int"
+2017-05-18T22:24:01: Analyzing "asn1crypto._iri"
+2017-05-18T22:24:01: Analyzing "asn1crypto._ordereddict"
+2017-05-18T22:24:01: Analyzing "asn1crypto._teletex_codec"
+2017-05-18T22:24:01: Analyzing "asn1crypto._types"
+2017-05-18T22:24:01: Analyzing "asn1crypto"
+2017-05-18T22:24:01: Analyzing "asn1crypto._perf._big_num_ctypes"
+2017-05-18T22:24:01: Analyzing "asn1crypto._perf"
+2017-05-18T22:24:01: Starting analysis of 27 modules
+2017-05-18T22:24:07: Analysis complete
+2017-05-18T22:24:07: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto"
+2017-05-18T22:24:08: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\asn1crypto"
+2017-05-18T22:24:08: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi" with 15 files
+2017-05-18T22:24:08: Parsing "cffi.api" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\api.py")
+2017-05-18T22:24:08: Parsing "cffi.backend_ctypes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\backend_ctypes.py")
+2017-05-18T22:24:08: Parsing "cffi.cffi_opcode" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\cffi_opcode.py")
+2017-05-18T22:24:08: Parsing "cffi.commontypes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\commontypes.py")
+2017-05-18T22:24:08: Parsing "cffi.cparser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\cparser.py")
+2017-05-18T22:24:08: Parsing "cffi.error" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\error.py")
+2017-05-18T22:24:08: Parsing "cffi.ffiplatform" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\ffiplatform.py")
+2017-05-18T22:24:08: Parsing "cffi.lock" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\lock.py")
+2017-05-18T22:24:08: Parsing "cffi.model" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\model.py")
+2017-05-18T22:24:08: Parsing "cffi.recompiler" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\recompiler.py")
+2017-05-18T22:24:08: Parsing "cffi.setuptools_ext" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\setuptools_ext.py")
+2017-05-18T22:24:08: Parsing "cffi.vengine_cpy" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\vengine_cpy.py")
+2017-05-18T22:24:08: Parsing "cffi.vengine_gen" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\vengine_gen.py")
+2017-05-18T22:24:08: Parsing "cffi.verifier" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\verifier.py")
+2017-05-18T22:24:08: Parsing "cffi" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi\__init__.py")
+2017-05-18T22:24:08: Parsing complete
+2017-05-18T22:24:08: Analyzing "cffi.api"
+2017-05-18T22:24:08: Analyzing "cffi.backend_ctypes"
+2017-05-18T22:24:08: Analyzing "cffi.cffi_opcode"
+2017-05-18T22:24:08: Analyzing "cffi.commontypes"
+2017-05-18T22:24:08: Analyzing "cffi.cparser"
+2017-05-18T22:24:08: Analyzing "cffi.error"
+2017-05-18T22:24:08: Analyzing "cffi.ffiplatform"
+2017-05-18T22:24:08: Analyzing "cffi.lock"
+2017-05-18T22:24:08: Analyzing "cffi.model"
+2017-05-18T22:24:08: Analyzing "cffi.recompiler"
+2017-05-18T22:24:08: Analyzing "cffi.setuptools_ext"
+2017-05-18T22:24:08: Analyzing "cffi.vengine_cpy"
+2017-05-18T22:24:08: Analyzing "cffi.vengine_gen"
+2017-05-18T22:24:08: Analyzing "cffi.verifier"
+2017-05-18T22:24:08: Analyzing "cffi"
+2017-05-18T22:24:08: Starting analysis of 15 modules
+2017-05-18T22:24:11: Analysis complete
+2017-05-18T22:24:11: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi"
+2017-05-18T22:24:12: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\cffi"
+2017-05-18T22:24:12: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna" with 7 files
+2017-05-18T22:24:12: Parsing "idna.codec" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\codec.py")
+2017-05-18T22:24:12: Parsing "idna.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\compat.py")
+2017-05-18T22:24:12: Parsing "idna.core" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\core.py")
+2017-05-18T22:24:12: Parsing "idna.idnadata" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\idnadata.py")
+2017-05-18T22:24:12: Parsing "idna.intranges" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\intranges.py")
+2017-05-18T22:24:12: Parsing "idna.uts46data" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\uts46data.py")
+2017-05-18T22:24:12: Parsing "idna" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna\__init__.py")
+2017-05-18T22:24:12: Parsing complete
+2017-05-18T22:24:12: Analyzing "idna.codec"
+2017-05-18T22:24:12: Analyzing "idna.compat"
+2017-05-18T22:24:12: Analyzing "idna.core"
+2017-05-18T22:24:12: Analyzing "idna.idnadata"
+2017-05-18T22:24:12: Analyzing "idna.intranges"
+2017-05-18T22:24:12: Analyzing "idna.uts46data"
+2017-05-18T22:24:12: Analyzing "idna"
+2017-05-18T22:24:12: Starting analysis of 7 modules
+2017-05-18T22:30:13: Analysis complete
+2017-05-18T22:30:13: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna"
+2017-05-18T22:30:13: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\idna"
+2017-05-18T22:30:13: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring" with 31 files
+2017-05-18T22:30:13: Parsing "keyring.backend" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backend.py")
+2017-05-18T22:30:13: Parsing "keyring.cli" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\cli.py")
+2017-05-18T22:30:13: Parsing "keyring.core" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\core.py")
+2017-05-18T22:30:13: Parsing "keyring.credentials" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\credentials.py")
+2017-05-18T22:30:13: Parsing "keyring.devpi_client" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\devpi_client.py")
+2017-05-18T22:30:13: Parsing "keyring.errors" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\errors.py")
+2017-05-18T22:30:13: Parsing "keyring.getpassbackend" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\getpassbackend.py")
+2017-05-18T22:30:13: Parsing "keyring.http" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\http.py")
+2017-05-18T22:30:13: Parsing "keyring.py27compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\py27compat.py")
+2017-05-18T22:30:13: Parsing "keyring.py33compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\py33compat.py")
+2017-05-18T22:30:13: Parsing "keyring" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\__init__.py")
+2017-05-18T22:30:13: Parsing "keyring.__main__" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\__main__.py")
+2017-05-18T22:30:13: Parsing "keyring.backends.fail" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\fail.py")
+2017-05-18T22:30:13: Parsing "keyring.backends.kwallet" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\kwallet.py")
+2017-05-18T22:30:13: Parsing "keyring.backends.OS_X" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\OS_X.py")
+2017-05-18T22:30:13: Parsing "keyring.backends.SecretService" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\SecretService.py")
+2017-05-18T22:30:13: Parsing "keyring.backends.Windows" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\Windows.py")
+2017-05-18T22:30:13: Parsing "keyring.backends._OS_X_API" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\_OS_X_API.py")
+2017-05-18T22:30:13: Parsing "keyring.backends" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\backends\__init__.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.test_backend" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\test_backend.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\util.py")
+2017-05-18T22:30:13: Parsing "keyring.tests" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\__init__.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.backends.test_kwallet" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\backends\test_kwallet.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.backends.test_OS_X" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\backends\test_OS_X.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.backends.test_SecretService" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\backends\test_SecretService.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.backends.test_Windows" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\backends\test_Windows.py")
+2017-05-18T22:30:13: Parsing "keyring.tests.backends" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\tests\backends\__init__.py")
+2017-05-18T22:30:13: Parsing "keyring.util.escape" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\util\escape.py")
+2017-05-18T22:30:13: Parsing "keyring.util.platform_" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\util\platform_.py")
+2017-05-18T22:30:13: Parsing "keyring.util.properties" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\util\properties.py")
+2017-05-18T22:30:13: Parsing "keyring.util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring\util\__init__.py")
+2017-05-18T22:30:13: Parsing complete
+2017-05-18T22:30:13: Analyzing "keyring.backend"
+2017-05-18T22:30:13: Analyzing "keyring.cli"
+2017-05-18T22:30:13: Analyzing "keyring.core"
+2017-05-18T22:30:13: Analyzing "keyring.credentials"
+2017-05-18T22:30:13: Analyzing "keyring.devpi_client"
+2017-05-18T22:30:13: Analyzing "keyring.errors"
+2017-05-18T22:30:13: Analyzing "keyring.getpassbackend"
+2017-05-18T22:30:13: Analyzing "keyring.http"
+2017-05-18T22:30:13: Analyzing "keyring.py27compat"
+2017-05-18T22:30:13: Analyzing "keyring.py33compat"
+2017-05-18T22:30:13: Analyzing "keyring"
+2017-05-18T22:30:13: Analyzing "keyring.__main__"
+2017-05-18T22:30:13: Analyzing "keyring.backends.fail"
+2017-05-18T22:30:13: Analyzing "keyring.backends.kwallet"
+2017-05-18T22:30:13: Analyzing "keyring.backends.OS_X"
+2017-05-18T22:30:13: Analyzing "keyring.backends.SecretService"
+2017-05-18T22:30:13: Analyzing "keyring.backends.Windows"
+2017-05-18T22:30:13: Analyzing "keyring.backends._OS_X_API"
+2017-05-18T22:30:13: Analyzing "keyring.backends"
+2017-05-18T22:30:13: Analyzing "keyring.tests.test_backend"
+2017-05-18T22:30:13: Analyzing "keyring.tests.util"
+2017-05-18T22:30:13: Analyzing "keyring.tests"
+2017-05-18T22:30:13: Analyzing "keyring.tests.backends.test_kwallet"
+2017-05-18T22:30:13: Analyzing "keyring.tests.backends.test_OS_X"
+2017-05-18T22:30:13: Analyzing "keyring.tests.backends.test_SecretService"
+2017-05-18T22:30:13: Analyzing "keyring.tests.backends.test_Windows"
+2017-05-18T22:30:13: Analyzing "keyring.tests.backends"
+2017-05-18T22:30:13: Analyzing "keyring.util.escape"
+2017-05-18T22:30:13: Analyzing "keyring.util.platform_"
+2017-05-18T22:30:13: Analyzing "keyring.util.properties"
+2017-05-18T22:30:13: Analyzing "keyring.util"
+2017-05-18T22:30:13: Starting analysis of 31 modules
+2017-05-18T22:30:15: Analysis complete
+2017-05-18T22:30:15: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring"
+2017-05-18T22:30:16: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\keyring"
+2017-05-18T22:30:16: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging" with 9 files
+2017-05-18T22:30:16: Parsing "packaging.markers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\markers.py")
+2017-05-18T22:30:16: Parsing "packaging.requirements" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\requirements.py")
+2017-05-18T22:30:16: Parsing "packaging.specifiers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\specifiers.py")
+2017-05-18T22:30:16: Parsing "packaging.utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\utils.py")
+2017-05-18T22:30:16: Parsing "packaging.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\version.py")
+2017-05-18T22:30:16: Parsing "packaging._compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\_compat.py")
+2017-05-18T22:30:16: Parsing "packaging._structures" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\_structures.py")
+2017-05-18T22:30:16: Parsing "packaging.__about__" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\__about__.py")
+2017-05-18T22:30:16: Parsing "packaging" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging\__init__.py")
+2017-05-18T22:30:16: Parsing complete
+2017-05-18T22:30:16: Analyzing "packaging.markers"
+2017-05-18T22:30:16: Analyzing "packaging.requirements"
+2017-05-18T22:30:16: Analyzing "packaging.specifiers"
+2017-05-18T22:30:16: Analyzing "packaging.utils"
+2017-05-18T22:30:16: Analyzing "packaging.version"
+2017-05-18T22:30:16: Analyzing "packaging._compat"
+2017-05-18T22:30:16: Analyzing "packaging._structures"
+2017-05-18T22:30:16: Analyzing "packaging.__about__"
+2017-05-18T22:30:16: Analyzing "packaging"
+2017-05-18T22:30:16: Starting analysis of 9 modules
+2017-05-18T22:30:18: Analysis complete
+2017-05-18T22:30:18: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging"
+2017-05-18T22:30:18: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\packaging"
+2017-05-18T22:30:18: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip" with 221 files
+2017-05-18T22:30:18: Parsing "pip.basecommand" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\basecommand.py")
+2017-05-18T22:30:18: Parsing "pip.baseparser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\baseparser.py")
+2017-05-18T22:30:18: Parsing "pip.cmdoptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\cmdoptions.py")
+2017-05-18T22:30:18: Parsing "pip.download" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\download.py")
+2017-05-18T22:30:18: Parsing "pip.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\exceptions.py")
+2017-05-18T22:30:18: Parsing "pip.index" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\index.py")
+2017-05-18T22:30:18: Parsing "pip.locations" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\locations.py")
+2017-05-18T22:30:18: Parsing "pip.pep425tags" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\pep425tags.py")
+2017-05-18T22:30:18: Parsing "pip.status_codes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\status_codes.py")
+2017-05-18T22:30:18: Parsing "pip.wheel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\wheel.py")
+2017-05-18T22:30:18: Parsing "pip" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.__main__" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\__main__.py")
+2017-05-18T22:30:18: Parsing "pip.commands.completion" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\completion.py")
+2017-05-18T22:30:18: Parsing "pip.commands.freeze" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\freeze.py")
+2017-05-18T22:30:18: Parsing "pip.commands.help" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\help.py")
+2017-05-18T22:30:18: Parsing "pip.commands.install" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\install.py")
+2017-05-18T22:30:18: Parsing "pip.commands.list" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\list.py")
+2017-05-18T22:30:18: Parsing "pip.commands.search" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\search.py")
+2017-05-18T22:30:18: Parsing "pip.commands.show" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\show.py")
+2017-05-18T22:30:18: Parsing "pip.commands.uninstall" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-05-18T22:30:18: Parsing "pip.commands.wheel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\wheel.py")
+2017-05-18T22:30:18: Parsing "pip.commands" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\commands\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.compat.dictconfig" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\compat\dictconfig.py")
+2017-05-18T22:30:18: Parsing "pip.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\compat\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.models.index" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\models\index.py")
+2017-05-18T22:30:18: Parsing "pip.models" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\models\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.operations.freeze" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\operations\freeze.py")
+2017-05-18T22:30:18: Parsing "pip.operations" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\operations\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.req.req_file" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\req\req_file.py")
+2017-05-18T22:30:18: Parsing "pip.req.req_install" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\req\req_install.py")
+2017-05-18T22:30:18: Parsing "pip.req.req_set" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\req\req_set.py")
+2017-05-18T22:30:18: Parsing "pip.req.req_uninstall" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\req\req_uninstall.py")
+2017-05-18T22:30:18: Parsing "pip.req" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\req\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.utils.appdirs" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\appdirs.py")
+2017-05-18T22:30:18: Parsing "pip.utils.build" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\build.py")
+2017-05-18T22:30:18: Parsing "pip.utils.deprecation" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\deprecation.py")
+2017-05-18T22:30:18: Parsing "pip.utils.filesystem" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\filesystem.py")
+2017-05-18T22:30:18: Parsing "pip.utils.logging" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\logging.py")
+2017-05-18T22:30:18: Parsing "pip.utils.outdated" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\outdated.py")
+2017-05-18T22:30:18: Parsing "pip.utils.ui" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\ui.py")
+2017-05-18T22:30:18: Parsing "pip.utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\utils\__init__.py")
+2017-05-18T22:30:18: Parsing "pip.vcs.bazaar" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-05-18T22:30:18: Parsing "pip.vcs.git" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\vcs\git.py")
+2017-05-18T22:30:18: Parsing "pip.vcs.mercurial" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-05-18T22:30:18: Parsing "pip.vcs.subversion" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-05-18T22:30:18: Parsing "pip.vcs" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.ipaddress" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.retrying" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\retrying.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.six" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\six.py")
+2017-05-18T22:30:18: Parsing "pip._vendor" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.adapter" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.cache" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.controller" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.filewrapper" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.heuristics" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.serialize" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.wrapper" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.cachecontrol.caches" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.colorama.ansi" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.colorama.initialise" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.colorama.win32" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.colorama.winterm" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.colorama" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.distlib.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.distlib.database" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-05-18T22:30:18: Parsing "pip._vendor.distlib.index" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.locators" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.manifest" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.markers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.metadata" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.resources" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.scripts" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib.wheel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.distlib._backport" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.constants" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.ihatexml" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.inputstream" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.sanitizer" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.tokenizer" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters._base" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.filters" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treebuilders._base" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers._base" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.trie.datrie" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.trie.py" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.trie._base" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.html5lib.trie" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.lockfile.linklockfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.lockfile.mkdirlockfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.lockfile.pidlockfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.lockfile.sqlitelockfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.lockfile.symlinklockfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.lockfile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.packaging.specifiers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.packaging.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.packaging._compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.packaging._structures" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.packaging.__about__" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.packaging" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.pkg_resources" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.progress.bar" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.progress.counter" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.progress.helpers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.progress.spinner" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.progress" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.adapters" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.api" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.auth" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.certs" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.cookies" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.hooks" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.models" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.sessions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.status_codes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.structures" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.constants" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.escprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.escsm" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.chardet" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.connection" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.fields" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.request" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.response" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3._collections" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.packages" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-05-18T22:30:19: Parsing "pip._vendor.requests.packages.urllib3.util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-05-18T22:30:19: Parsing "pip._vendor._markerlib.markers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2017-05-18T22:30:19: Parsing "pip._vendor._markerlib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2017-05-18T22:30:19: Parsing complete
+2017-05-18T22:30:19: Analyzing "pip.basecommand"
+2017-05-18T22:30:19: Analyzing "pip.baseparser"
+2017-05-18T22:30:19: Analyzing "pip.cmdoptions"
+2017-05-18T22:30:19: Analyzing "pip.download"
+2017-05-18T22:30:19: Analyzing "pip.exceptions"
+2017-05-18T22:30:19: Analyzing "pip.index"
+2017-05-18T22:30:19: Analyzing "pip.locations"
+2017-05-18T22:30:19: Analyzing "pip.pep425tags"
+2017-05-18T22:30:19: Analyzing "pip.status_codes"
+2017-05-18T22:30:19: Analyzing "pip.wheel"
+2017-05-18T22:30:19: Analyzing "pip"
+2017-05-18T22:30:19: Analyzing "pip.__main__"
+2017-05-18T22:30:19: Analyzing "pip.commands.completion"
+2017-05-18T22:30:19: Analyzing "pip.commands.freeze"
+2017-05-18T22:30:19: Analyzing "pip.commands.help"
+2017-05-18T22:30:19: Analyzing "pip.commands.install"
+2017-05-18T22:30:19: Analyzing "pip.commands.list"
+2017-05-18T22:30:19: Analyzing "pip.commands.search"
+2017-05-18T22:30:19: Analyzing "pip.commands.show"
+2017-05-18T22:30:19: Analyzing "pip.commands.uninstall"
+2017-05-18T22:30:19: Analyzing "pip.commands.wheel"
+2017-05-18T22:30:19: Analyzing "pip.commands"
+2017-05-18T22:30:19: Analyzing "pip.compat.dictconfig"
+2017-05-18T22:30:19: Analyzing "pip.compat"
+2017-05-18T22:30:19: Analyzing "pip.models.index"
+2017-05-18T22:30:19: Analyzing "pip.models"
+2017-05-18T22:30:19: Analyzing "pip.operations.freeze"
+2017-05-18T22:30:19: Analyzing "pip.operations"
+2017-05-18T22:30:19: Analyzing "pip.req.req_file"
+2017-05-18T22:30:19: Analyzing "pip.req.req_install"
+2017-05-18T22:30:19: Analyzing "pip.req.req_set"
+2017-05-18T22:30:19: Analyzing "pip.req.req_uninstall"
+2017-05-18T22:30:19: Analyzing "pip.req"
+2017-05-18T22:30:19: Analyzing "pip.utils.appdirs"
+2017-05-18T22:30:19: Analyzing "pip.utils.build"
+2017-05-18T22:30:19: Analyzing "pip.utils.deprecation"
+2017-05-18T22:30:19: Analyzing "pip.utils.filesystem"
+2017-05-18T22:30:19: Analyzing "pip.utils.logging"
+2017-05-18T22:30:19: Analyzing "pip.utils.outdated"
+2017-05-18T22:30:19: Analyzing "pip.utils.ui"
+2017-05-18T22:30:19: Analyzing "pip.utils"
+2017-05-18T22:30:19: Analyzing "pip.vcs.bazaar"
+2017-05-18T22:30:19: Analyzing "pip.vcs.git"
+2017-05-18T22:30:19: Analyzing "pip.vcs.mercurial"
+2017-05-18T22:30:19: Analyzing "pip.vcs.subversion"
+2017-05-18T22:30:19: Analyzing "pip.vcs"
+2017-05-18T22:30:19: Analyzing "pip._vendor.ipaddress"
+2017-05-18T22:30:19: Analyzing "pip._vendor.retrying"
+2017-05-18T22:30:19: Analyzing "pip._vendor.six"
+2017-05-18T22:30:19: Analyzing "pip._vendor"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.cache"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.compat"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.controller"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-05-18T22:30:19: Analyzing "pip._vendor.cachecontrol.caches"
+2017-05-18T22:30:19: Analyzing "pip._vendor.colorama.ansi"
+2017-05-18T22:30:19: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-05-18T22:30:19: Analyzing "pip._vendor.colorama.initialise"
+2017-05-18T22:30:19: Analyzing "pip._vendor.colorama.win32"
+2017-05-18T22:30:19: Analyzing "pip._vendor.colorama.winterm"
+2017-05-18T22:30:19: Analyzing "pip._vendor.colorama"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.compat"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.database"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.index"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.locators"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.manifest"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.markers"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.metadata"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.resources"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.scripts"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.util"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.version"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib.wheel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib._backport.misc"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.distlib._backport"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.constants"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.html5parser"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.ihatexml"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.inputstream"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.sanitizer"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.tokenizer"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.utils"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters._base"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.filters"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.serializer"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.trie.datrie"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.trie.py"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.trie._base"
+2017-05-18T22:30:19: Analyzing "pip._vendor.html5lib.trie"
+2017-05-18T22:30:19: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.lockfile"
+2017-05-18T22:30:19: Analyzing "pip._vendor.packaging.specifiers"
+2017-05-18T22:30:19: Analyzing "pip._vendor.packaging.version"
+2017-05-18T22:30:19: Analyzing "pip._vendor.packaging._compat"
+2017-05-18T22:30:19: Analyzing "pip._vendor.packaging._structures"
+2017-05-18T22:30:19: Analyzing "pip._vendor.packaging.__about__"
+2017-05-18T22:30:19: Analyzing "pip._vendor.packaging"
+2017-05-18T22:30:19: Analyzing "pip._vendor.pkg_resources"
+2017-05-18T22:30:19: Analyzing "pip._vendor.progress.bar"
+2017-05-18T22:30:19: Analyzing "pip._vendor.progress.counter"
+2017-05-18T22:30:19: Analyzing "pip._vendor.progress.helpers"
+2017-05-18T22:30:19: Analyzing "pip._vendor.progress.spinner"
+2017-05-18T22:30:19: Analyzing "pip._vendor.progress"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.adapters"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.api"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.auth"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.certs"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.compat"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.cookies"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.exceptions"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.hooks"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.models"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.sessions"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.status_codes"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.structures"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.utils"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.chardet"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-05-18T22:30:19: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-05-18T22:30:19: Analyzing "pip._vendor._markerlib.markers"
+2017-05-18T22:30:19: Analyzing "pip._vendor._markerlib"
+2017-05-18T22:30:19: Starting analysis of 221 modules
+2017-05-18T22:30:29: Analysis complete
+2017-05-18T22:30:29: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip"
+2017-05-18T22:30:30: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pip"
+2017-05-18T22:30:30: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources" with 8 files
+2017-05-18T22:30:30: Parsing "pkg_resources" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\__init__.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor.packaging.specifiers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor.packaging.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor.packaging._compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor.packaging._structures" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor.packaging.__about__" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-05-18T22:30:30: Parsing "pkg_resources._vendor.packaging" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-05-18T22:30:30: Parsing complete
+2017-05-18T22:30:30: Analyzing "pkg_resources"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor.packaging.version"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-05-18T22:30:30: Analyzing "pkg_resources._vendor.packaging"
+2017-05-18T22:30:30: Starting analysis of 8 modules
+2017-05-18T22:30:33: Analysis complete
+2017-05-18T22:30:33: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources"
+2017-05-18T22:30:33: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pkg_resources"
+2017-05-18T22:30:33: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser" with 17 files
+2017-05-18T22:30:33: Parsing "pycparser.ast_transforms" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ast_transforms.py")
+2017-05-18T22:30:33: Parsing "pycparser.c_ast" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\c_ast.py")
+2017-05-18T22:30:33: Parsing "pycparser.c_generator" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\c_generator.py")
+2017-05-18T22:30:33: Parsing "pycparser.c_lexer" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\c_lexer.py")
+2017-05-18T22:30:33: Parsing "pycparser.c_parser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\c_parser.py")
+2017-05-18T22:30:33: Parsing "pycparser.lextab" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\lextab.py")
+2017-05-18T22:30:33: Parsing "pycparser.plyparser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\plyparser.py")
+2017-05-18T22:30:33: Parsing "pycparser.yacctab" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\yacctab.py")
+2017-05-18T22:30:33: Parsing "pycparser._ast_gen" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\_ast_gen.py")
+2017-05-18T22:30:33: Parsing "pycparser._build_tables" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\_build_tables.py")
+2017-05-18T22:30:33: Parsing "pycparser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\__init__.py")
+2017-05-18T22:30:33: Parsing "pycparser.ply.cpp" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ply\cpp.py")
+2017-05-18T22:30:33: Parsing "pycparser.ply.ctokens" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ply\ctokens.py")
+2017-05-18T22:30:33: Parsing "pycparser.ply.lex" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ply\lex.py")
+2017-05-18T22:30:33: Parsing "pycparser.ply.yacc" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ply\yacc.py")
+2017-05-18T22:30:33: Parsing "pycparser.ply.ygen" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ply\ygen.py")
+2017-05-18T22:30:33: Parsing "pycparser.ply" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser\ply\__init__.py")
+2017-05-18T22:30:33: Parsing complete
+2017-05-18T22:30:33: Analyzing "pycparser.ast_transforms"
+2017-05-18T22:30:33: Analyzing "pycparser.c_ast"
+2017-05-18T22:30:33: Analyzing "pycparser.c_generator"
+2017-05-18T22:30:33: Analyzing "pycparser.c_lexer"
+2017-05-18T22:30:33: Analyzing "pycparser.c_parser"
+2017-05-18T22:30:33: Analyzing "pycparser.lextab"
+2017-05-18T22:30:33: Analyzing "pycparser.plyparser"
+2017-05-18T22:30:33: Analyzing "pycparser.yacctab"
+2017-05-18T22:30:33: Analyzing "pycparser._ast_gen"
+2017-05-18T22:30:33: Analyzing "pycparser._build_tables"
+2017-05-18T22:30:33: Analyzing "pycparser"
+2017-05-18T22:30:33: Analyzing "pycparser.ply.cpp"
+2017-05-18T22:30:33: Analyzing "pycparser.ply.ctokens"
+2017-05-18T22:30:33: Analyzing "pycparser.ply.lex"
+2017-05-18T22:30:33: Analyzing "pycparser.ply.yacc"
+2017-05-18T22:30:33: Analyzing "pycparser.ply.ygen"
+2017-05-18T22:30:33: Analyzing "pycparser.ply"
+2017-05-18T22:30:33: Starting analysis of 17 modules
+2017-05-18T22:30:36: Analysis complete
+2017-05-18T22:30:36: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser"
+2017-05-18T22:30:36: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\pycparser"
+2017-05-18T22:30:36: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools" with 39 files
+2017-05-18T22:30:36: Parsing "setuptools.archive_util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\archive_util.py")
+2017-05-18T22:30:36: Parsing "setuptools.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\compat.py")
+2017-05-18T22:30:36: Parsing "setuptools.depends" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\depends.py")
+2017-05-18T22:30:36: Parsing "setuptools.dist" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\dist.py")
+2017-05-18T22:30:36: Parsing "setuptools.extension" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\extension.py")
+2017-05-18T22:30:36: Parsing "setuptools.lib2to3_ex" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-05-18T22:30:36: Parsing "setuptools.msvc9_support" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\msvc9_support.py")
+2017-05-18T22:30:36: Parsing "setuptools.package_index" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\package_index.py")
+2017-05-18T22:30:37: Parsing "setuptools.py26compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\py26compat.py")
+2017-05-18T22:30:37: Parsing "setuptools.py27compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\py27compat.py")
+2017-05-18T22:30:37: Parsing "setuptools.py31compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\py31compat.py")
+2017-05-18T22:30:37: Parsing "setuptools.sandbox" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\sandbox.py")
+2017-05-18T22:30:37: Parsing "setuptools.ssl_support" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-05-18T22:30:37: Parsing "setuptools.unicode_utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\unicode_utils.py")
+2017-05-18T22:30:37: Parsing "setuptools.utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\utils.py")
+2017-05-18T22:30:37: Parsing "setuptools.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\version.py")
+2017-05-18T22:30:37: Parsing "setuptools.windows_support" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\windows_support.py")
+2017-05-18T22:30:37: Parsing "setuptools" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\__init__.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.alias" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\alias.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.bdist_egg" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.bdist_rpm" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.bdist_wininst" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.build_ext" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.build_py" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.develop" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\develop.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.easy_install" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.egg_info" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.install" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\install.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.install_egg_info" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.install_lib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.install_scripts" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.register" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\register.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.rotate" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.saveopts" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.sdist" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.setopt" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.test" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\test.py")
+2017-05-18T22:30:37: Parsing "setuptools.command.upload_docs" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-05-18T22:30:37: Parsing "setuptools.command" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-05-18T22:30:37: Parsing complete
+2017-05-18T22:30:37: Analyzing "setuptools.archive_util"
+2017-05-18T22:30:37: Analyzing "setuptools.compat"
+2017-05-18T22:30:37: Analyzing "setuptools.depends"
+2017-05-18T22:30:37: Analyzing "setuptools.dist"
+2017-05-18T22:30:37: Analyzing "setuptools.extension"
+2017-05-18T22:30:37: Analyzing "setuptools.lib2to3_ex"
+2017-05-18T22:30:37: Analyzing "setuptools.msvc9_support"
+2017-05-18T22:30:37: Analyzing "setuptools.package_index"
+2017-05-18T22:30:37: Analyzing "setuptools.py26compat"
+2017-05-18T22:30:37: Analyzing "setuptools.py27compat"
+2017-05-18T22:30:37: Analyzing "setuptools.py31compat"
+2017-05-18T22:30:37: Analyzing "setuptools.sandbox"
+2017-05-18T22:30:37: Analyzing "setuptools.ssl_support"
+2017-05-18T22:30:37: Analyzing "setuptools.unicode_utils"
+2017-05-18T22:30:37: Analyzing "setuptools.utils"
+2017-05-18T22:30:37: Analyzing "setuptools.version"
+2017-05-18T22:30:37: Analyzing "setuptools.windows_support"
+2017-05-18T22:30:37: Analyzing "setuptools"
+2017-05-18T22:30:37: Analyzing "setuptools.command.alias"
+2017-05-18T22:30:37: Analyzing "setuptools.command.bdist_egg"
+2017-05-18T22:30:37: Analyzing "setuptools.command.bdist_rpm"
+2017-05-18T22:30:37: Analyzing "setuptools.command.bdist_wininst"
+2017-05-18T22:30:37: Analyzing "setuptools.command.build_ext"
+2017-05-18T22:30:37: Analyzing "setuptools.command.build_py"
+2017-05-18T22:30:37: Analyzing "setuptools.command.develop"
+2017-05-18T22:30:37: Analyzing "setuptools.command.easy_install"
+2017-05-18T22:30:37: Analyzing "setuptools.command.egg_info"
+2017-05-18T22:30:37: Analyzing "setuptools.command.install"
+2017-05-18T22:30:37: Analyzing "setuptools.command.install_egg_info"
+2017-05-18T22:30:37: Analyzing "setuptools.command.install_lib"
+2017-05-18T22:30:37: Analyzing "setuptools.command.install_scripts"
+2017-05-18T22:30:37: Analyzing "setuptools.command.register"
+2017-05-18T22:30:37: Analyzing "setuptools.command.rotate"
+2017-05-18T22:30:37: Analyzing "setuptools.command.saveopts"
+2017-05-18T22:30:37: Analyzing "setuptools.command.sdist"
+2017-05-18T22:30:37: Analyzing "setuptools.command.setopt"
+2017-05-18T22:30:37: Analyzing "setuptools.command.test"
+2017-05-18T22:30:37: Analyzing "setuptools.command.upload_docs"
+2017-05-18T22:30:37: Analyzing "setuptools.command"
+2017-05-18T22:30:37: Starting analysis of 39 modules
+2017-05-18T22:30:40: Analysis complete
+2017-05-18T22:30:40: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools"
+2017-05-18T22:30:40: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\setuptools"
+2017-05-18T22:30:40: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes" with 14 files
+2017-05-18T22:30:40: Parsing "win32ctypes.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\compat.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.pywintypes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\pywintypes.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.win32api" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\win32api.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.win32cred" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\win32cred.py")
+2017-05-18T22:30:40: Parsing "win32ctypes._common" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\_common.py")
+2017-05-18T22:30:40: Parsing "win32ctypes._util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\_util.py")
+2017-05-18T22:30:40: Parsing "win32ctypes._win32api" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\_win32api.py")
+2017-05-18T22:30:40: Parsing "win32ctypes._win32cred" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\_win32cred.py")
+2017-05-18T22:30:40: Parsing "win32ctypes._winerrors" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\_winerrors.py")
+2017-05-18T22:30:40: Parsing "win32ctypes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\__init__.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.tests.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\tests\compat.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.tests.test_win32api" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\tests\test_win32api.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.tests.test_win32cred" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\tests\test_win32cred.py")
+2017-05-18T22:30:40: Parsing "win32ctypes.tests" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes\tests\__init__.py")
+2017-05-18T22:30:40: Parsing complete
+2017-05-18T22:30:40: Analyzing "win32ctypes.compat"
+2017-05-18T22:30:40: Analyzing "win32ctypes.pywintypes"
+2017-05-18T22:30:40: Analyzing "win32ctypes.win32api"
+2017-05-18T22:30:40: Analyzing "win32ctypes.win32cred"
+2017-05-18T22:30:40: Analyzing "win32ctypes._common"
+2017-05-18T22:30:40: Analyzing "win32ctypes._util"
+2017-05-18T22:30:40: Analyzing "win32ctypes._win32api"
+2017-05-18T22:30:40: Analyzing "win32ctypes._win32cred"
+2017-05-18T22:30:40: Analyzing "win32ctypes._winerrors"
+2017-05-18T22:30:40: Analyzing "win32ctypes"
+2017-05-18T22:30:40: Analyzing "win32ctypes.tests.compat"
+2017-05-18T22:30:40: Analyzing "win32ctypes.tests.test_win32api"
+2017-05-18T22:30:40: Analyzing "win32ctypes.tests.test_win32cred"
+2017-05-18T22:30:40: Analyzing "win32ctypes.tests"
+2017-05-18T22:30:40: Starting analysis of 14 modules
+2017-05-18T22:30:42: Analysis complete
+2017-05-18T22:30:42: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes"
+2017-05-18T22:30:42: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\win32ctypes"
+2017-05-18T22:30:42: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\_markerlib" with 2 files
+2017-05-18T22:30:42: Parsing "_markerlib.markers" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\_markerlib\markers.py")
+2017-05-18T22:30:42: Parsing "_markerlib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\_markerlib\__init__.py")
+2017-05-18T22:30:42: Parsing complete
+2017-05-18T22:30:42: Analyzing "_markerlib.markers"
+2017-05-18T22:30:42: Analyzing "_markerlib"
+2017-05-18T22:30:42: Starting analysis of 2 modules
+2017-05-18T22:30:45: Analysis complete
+2017-05-18T22:30:45: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\_markerlib"
+2017-05-18T22:30:45: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\_markerlib"
+2017-05-18T22:30:45: Deleting 0 files
+2017-05-18T22:30:45: astropy.CallDepth = 0
+2017-05-18T22:30:45: matplotlib.CallDepth = 3
+2017-05-18T22:30:45: pandas.CallDepth = 0
+2017-05-18T22:30:45: sympy.CallDepth = 0
+2017-05-18T22:30:45: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure" with 1 files
+2017-05-18T22:30:45: Parsing "azure" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\__init__.py")
+2017-05-18T22:30:45: Parsing complete
+2017-05-18T22:30:45: Analyzing "azure"
+2017-05-18T22:30:45: Starting analysis of 1 modules
+2017-05-18T22:30:45: Analysis complete
+2017-05-18T22:30:45: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure"
+2017-05-18T22:30:48: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure"
+2017-05-18T22:30:48: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4" with 17 files
+2017-05-18T22:30:48: Parsing "bs4.dammit" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\dammit.py")
+2017-05-18T22:30:48: Parsing "bs4.diagnose" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\diagnose.py")
+2017-05-18T22:30:48: Parsing "bs4.element" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\element.py")
+2017-05-18T22:30:48: Parsing "bs4.testing" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\testing.py")
+2017-05-18T22:30:48: Parsing "bs4" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\__init__.py")
+2017-05-18T22:30:48: Parsing "bs4.builder._html5lib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\builder\_html5lib.py")
+2017-05-18T22:30:48: Parsing "bs4.builder._htmlparser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\builder\_htmlparser.py")
+2017-05-18T22:30:48: Parsing "bs4.builder._lxml" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\builder\_lxml.py")
+2017-05-18T22:30:48: Parsing "bs4.builder" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\builder\__init__.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_builder_registry" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_builder_registry.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_docs" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_docs.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_html5lib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_html5lib.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_htmlparser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_htmlparser.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_lxml" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_lxml.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_soup" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_soup.py")
+2017-05-18T22:30:48: Parsing "bs4.tests.test_tree" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\test_tree.py")
+2017-05-18T22:30:48: Parsing "bs4.tests" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4\tests\__init__.py")
+2017-05-18T22:30:48: Parsing complete
+2017-05-18T22:30:48: Analyzing "bs4.dammit"
+2017-05-18T22:30:48: Analyzing "bs4.diagnose"
+2017-05-18T22:30:48: Analyzing "bs4.element"
+2017-05-18T22:30:48: Analyzing "bs4.testing"
+2017-05-18T22:30:48: Analyzing "bs4"
+2017-05-18T22:30:48: Analyzing "bs4.builder._html5lib"
+2017-05-18T22:30:48: Analyzing "bs4.builder._htmlparser"
+2017-05-18T22:30:48: Analyzing "bs4.builder._lxml"
+2017-05-18T22:30:48: Analyzing "bs4.builder"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_builder_registry"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_docs"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_html5lib"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_htmlparser"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_lxml"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_soup"
+2017-05-18T22:30:48: Analyzing "bs4.tests.test_tree"
+2017-05-18T22:30:48: Analyzing "bs4.tests"
+2017-05-18T22:30:48: Starting analysis of 17 modules
+2017-05-18T22:30:52: Analysis complete
+2017-05-18T22:30:52: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4"
+2017-05-18T22:30:52: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\bs4"
+2017-05-18T22:30:52: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil" with 13 files
+2017-05-18T22:30:52: Parsing "dateutil.easter" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\easter.py")
+2017-05-18T22:30:52: Parsing "dateutil.parser" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\parser.py")
+2017-05-18T22:30:52: Parsing "dateutil.relativedelta" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\relativedelta.py")
+2017-05-18T22:30:52: Parsing "dateutil.rrule" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\rrule.py")
+2017-05-18T22:30:52: Parsing "dateutil.tzwin" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\tzwin.py")
+2017-05-18T22:30:52: Parsing "dateutil._common" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\_common.py")
+2017-05-18T22:30:52: Parsing "dateutil" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\__init__.py")
+2017-05-18T22:30:52: Parsing "dateutil.tz.tz" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\tz\tz.py")
+2017-05-18T22:30:52: Parsing "dateutil.tz.win" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\tz\win.py")
+2017-05-18T22:30:52: Parsing "dateutil.tz._common" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\tz\_common.py")
+2017-05-18T22:30:52: Parsing "dateutil.tz" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\tz\__init__.py")
+2017-05-18T22:30:52: Parsing "dateutil.zoneinfo.rebuild" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\zoneinfo\rebuild.py")
+2017-05-18T22:30:52: Parsing "dateutil.zoneinfo" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil\zoneinfo\__init__.py")
+2017-05-18T22:30:52: Parsing complete
+2017-05-18T22:30:52: Analyzing "dateutil.easter"
+2017-05-18T22:30:52: Analyzing "dateutil.parser"
+2017-05-18T22:30:52: Analyzing "dateutil.relativedelta"
+2017-05-18T22:30:52: Analyzing "dateutil.rrule"
+2017-05-18T22:30:52: Analyzing "dateutil.tzwin"
+2017-05-18T22:30:52: Analyzing "dateutil._common"
+2017-05-18T22:30:52: Analyzing "dateutil"
+2017-05-18T22:30:52: Analyzing "dateutil.tz.tz"
+2017-05-18T22:30:52: Analyzing "dateutil.tz.win"
+2017-05-18T22:30:52: Analyzing "dateutil.tz._common"
+2017-05-18T22:30:52: Analyzing "dateutil.tz"
+2017-05-18T22:30:52: Analyzing "dateutil.zoneinfo.rebuild"
+2017-05-18T22:30:52: Analyzing "dateutil.zoneinfo"
+2017-05-18T22:30:52: Starting analysis of 13 modules
+2017-05-18T22:30:55: Analysis complete
+2017-05-18T22:30:55: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil"
+2017-05-18T22:30:55: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\dateutil"
+2017-05-18T22:30:55: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests" with 102 files
+2017-05-18T22:30:55: Parsing "requests.adapters" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\adapters.py")
+2017-05-18T22:30:55: Parsing "requests.api" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\api.py")
+2017-05-18T22:30:55: Parsing "requests.auth" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\auth.py")
+2017-05-18T22:30:55: Parsing "requests.certs" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\certs.py")
+2017-05-18T22:30:55: Parsing "requests.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\compat.py")
+2017-05-18T22:30:55: Parsing "requests.cookies" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\cookies.py")
+2017-05-18T22:30:55: Parsing "requests.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\exceptions.py")
+2017-05-18T22:30:55: Parsing "requests.hooks" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\hooks.py")
+2017-05-18T22:30:55: Parsing "requests.models" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\models.py")
+2017-05-18T22:30:55: Parsing "requests.sessions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\sessions.py")
+2017-05-18T22:30:55: Parsing "requests.status_codes" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\status_codes.py")
+2017-05-18T22:30:55: Parsing "requests.structures" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\structures.py")
+2017-05-18T22:30:55: Parsing "requests.utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\utils.py")
+2017-05-18T22:30:55: Parsing "requests._internal_utils" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\_internal_utils.py")
+2017-05-18T22:30:55: Parsing "requests" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.big5freq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\big5freq.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.big5prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\big5prober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.chardetect" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\chardetect.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.chardistribution" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\chardistribution.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.charsetgroupprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\charsetgroupprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.charsetprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\charsetprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.codingstatemachine" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\codingstatemachine.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\compat.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.constants" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\constants.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.cp949prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\cp949prober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.enums" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\enums.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.escprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\escprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.escsm" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\escsm.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.eucjpprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\eucjpprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.euckrfreq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\euckrfreq.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.euckrprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\euckrprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.euctwfreq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\euctwfreq.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.euctwprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\euctwprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.gb2312freq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\gb2312freq.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.gb2312prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\gb2312prober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.hebrewprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\hebrewprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.jisfreq" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\jisfreq.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.jpcntx" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\jpcntx.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langbulgarianmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langbulgarianmodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langcyrillicmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langcyrillicmodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langgreekmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langgreekmodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langhebrewmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langhebrewmodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langhungarianmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langhungarianmodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langthaimodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langthaimodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.langturkishmodel" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\langturkishmodel.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.latin1prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\latin1prober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.mbcharsetprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\mbcharsetprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.mbcsgroupprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\mbcsgroupprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.mbcssm" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\mbcssm.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.sbcharsetprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\sbcharsetprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.sbcsgroupprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\sbcsgroupprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.sjisprober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\sjisprober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.universaldetector" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\universaldetector.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.utf8prober" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\utf8prober.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.version" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\version.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.cli.chardetect" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\cli\chardetect.py")
+2017-05-18T22:30:55: Parsing "requests.packages.chardet.cli" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\chardet\cli\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna.codec" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\codec.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna.compat" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\compat.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna.core" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\core.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna.idnadata" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\idnadata.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna.intranges" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\intranges.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna.uts46data" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\uts46data.py")
+2017-05-18T22:30:55: Parsing "requests.packages.idna" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\idna\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.connection" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\connection.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.connectionpool" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\connectionpool.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\exceptions.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.fields" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\fields.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.filepost" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\filepost.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.poolmanager" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\poolmanager.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.request" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\request.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.response" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\response.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3._collections" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\_collections.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib.appengine" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\appengine.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib.securetransport" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\securetransport.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib.socks" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\socks.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib._securetransport.bindings" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\_securetransport\bindings.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib._securetransport.low_level" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\_securetransport\low_level.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.contrib._securetransport" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\contrib\_securetransport\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages.ordered_dict" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\ordered_dict.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages.six" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\six.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages.backports.makefile" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\backports\makefile.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages.backports" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\backports\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.connection" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\connection.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.request" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\request.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.response" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\response.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.retry" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\retry.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.selectors" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\selectors.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.ssl_" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\ssl_.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.timeout" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\timeout.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.url" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\url.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util.wait" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\wait.py")
+2017-05-18T22:30:55: Parsing "requests.packages.urllib3.util" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests\packages\urllib3\util\__init__.py")
+2017-05-18T22:30:55: Parsing complete
+2017-05-18T22:30:55: Analyzing "requests.adapters"
+2017-05-18T22:30:55: Analyzing "requests.api"
+2017-05-18T22:30:55: Analyzing "requests.auth"
+2017-05-18T22:30:55: Analyzing "requests.certs"
+2017-05-18T22:30:55: Analyzing "requests.compat"
+2017-05-18T22:30:55: Analyzing "requests.cookies"
+2017-05-18T22:30:55: Analyzing "requests.exceptions"
+2017-05-18T22:30:55: Analyzing "requests.hooks"
+2017-05-18T22:30:55: Analyzing "requests.models"
+2017-05-18T22:30:55: Analyzing "requests.sessions"
+2017-05-18T22:30:55: Analyzing "requests.status_codes"
+2017-05-18T22:30:55: Analyzing "requests.structures"
+2017-05-18T22:30:55: Analyzing "requests.utils"
+2017-05-18T22:30:55: Analyzing "requests._internal_utils"
+2017-05-18T22:30:55: Analyzing "requests"
+2017-05-18T22:30:55: Analyzing "requests.packages"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.big5freq"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.big5prober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.chardetect"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.chardistribution"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.charsetgroupprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.charsetprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.codingstatemachine"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.compat"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.constants"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.cp949prober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.enums"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.escprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.escsm"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.eucjpprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.euckrfreq"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.euckrprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.euctwfreq"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.euctwprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.gb2312freq"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.gb2312prober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.hebrewprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.jisfreq"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.jpcntx"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langbulgarianmodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langcyrillicmodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langgreekmodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langhebrewmodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langhungarianmodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langthaimodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.langturkishmodel"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.latin1prober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.mbcharsetprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.mbcsgroupprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.mbcssm"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.sbcharsetprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.sbcsgroupprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.sjisprober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.universaldetector"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.utf8prober"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.version"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.cli.chardetect"
+2017-05-18T22:30:55: Analyzing "requests.packages.chardet.cli"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna.codec"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna.compat"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna.core"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna.idnadata"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna.intranges"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna.uts46data"
+2017-05-18T22:30:55: Analyzing "requests.packages.idna"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.connection"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.connectionpool"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.exceptions"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.fields"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.filepost"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.poolmanager"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.request"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.response"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3._collections"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib.appengine"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib.ntlmpool"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib.pyopenssl"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib.securetransport"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib.socks"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib._securetransport.bindings"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib._securetransport.low_level"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.contrib._securetransport"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages.ordered_dict"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages.six"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages.backports.makefile"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages.backports"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.connection"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.request"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.response"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.retry"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.selectors"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.ssl_"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.timeout"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.url"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util.wait"
+2017-05-18T22:30:55: Analyzing "requests.packages.urllib3.util"
+2017-05-18T22:30:55: Starting analysis of 102 modules
+2017-05-18T22:39:05: Analysis complete
+2017-05-18T22:39:05: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests"
+2017-05-18T22:39:07: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\requests"
+2017-05-18T22:39:07: Deleting 1 files
+2017-05-18T22:39:07: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.idb"
+2017-05-18T22:39:07: astropy.CallDepth = 0
+2017-05-18T22:39:07: matplotlib.CallDepth = 3
+2017-05-18T22:39:07: pandas.CallDepth = 0
+2017-05-18T22:39:07: sympy.CallDepth = 0
+2017-05-18T22:39:07: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure" with 6 files
+2017-05-18T22:39:07: Parsing "azure" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\__init__.py")
+2017-05-18T22:39:07: Parsing "azure.common.client_factory" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\client_factory.py")
+2017-05-18T22:39:07: Parsing "azure.common.cloud" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\cloud.py")
+2017-05-18T22:39:07: Parsing "azure.common.credentials" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\credentials.py")
+2017-05-18T22:39:07: Parsing "azure.common.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\exceptions.py")
+2017-05-18T22:39:07: Parsing "azure.common" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\__init__.py")
+2017-05-18T22:39:07: Parsing complete
+2017-05-18T22:39:07: Analyzing "azure"
+2017-05-18T22:39:07: Analyzing "azure.common.client_factory"
+2017-05-18T22:39:07: Analyzing "azure.common.cloud"
+2017-05-18T22:39:07: Analyzing "azure.common.credentials"
+2017-05-18T22:39:07: Analyzing "azure.common.exceptions"
+2017-05-18T22:39:07: Analyzing "azure.common"
+2017-05-18T22:39:07: Starting analysis of 6 modules
+2017-05-18T22:39:10: Analysis complete
+2017-05-18T22:39:10: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure"
+2017-05-18T22:39:10: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure"
+
+2017-05-18T22:39:38: Start analysis
+2017-05-18T22:39:38: [WARNING] Library was set explicitly - skipping path detection
+2017-05-18T22:39:38: IncludeModulesFromModulePath = win32com
+2017-05-18T22:39:39: Deleting 6 files
+2017-05-18T22:39:39: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.common.client_factory.idb"
+2017-05-18T22:39:39: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.common.cloud.idb"
+2017-05-18T22:39:39: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.common.credentials.idb"
+2017-05-18T22:39:39: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.common.exceptions.idb"
+2017-05-18T22:39:39: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.common.idb"
+2017-05-18T22:39:39: Deleting "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\.ptvs\azure\azure.idb"
+2017-05-18T22:39:39: astropy.CallDepth = 0
+2017-05-18T22:39:39: matplotlib.CallDepth = 3
+2017-05-18T22:39:39: pandas.CallDepth = 0
+2017-05-18T22:39:39: sympy.CallDepth = 0
+2017-05-18T22:39:39: Start group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure" with 18 files
+2017-05-18T22:39:39: Parsing "azure" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\__init__.py")
+2017-05-18T22:39:39: Parsing "azure.common.client_factory" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\client_factory.py")
+2017-05-18T22:39:40: Parsing "azure.common.cloud" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\cloud.py")
+2017-05-18T22:39:40: Parsing "azure.common.credentials" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\credentials.py")
+2017-05-18T22:39:40: Parsing "azure.common.exceptions" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\exceptions.py")
+2017-05-18T22:39:40: Parsing "azure.common" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\common\__init__.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus.constants" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\constants.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus.models" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\models.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus.servicebusservice" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\servicebusservice.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._common_conversion" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_common_conversion.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._common_error" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_common_error.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._common_models" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_common_models.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._common_serialization" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_common_serialization.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._serialization" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_serialization.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\__init__.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._http.httpclient" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_http\httpclient.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._http.requestsclient" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_http\requestsclient.py")
+2017-05-18T22:39:40: Parsing "azure.servicebus._http" ("C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure\servicebus\_http\__init__.py")
+2017-05-18T22:39:40: Parsing complete
+2017-05-18T22:39:40: Analyzing "azure"
+2017-05-18T22:39:40: Analyzing "azure.common.client_factory"
+2017-05-18T22:39:40: Analyzing "azure.common.cloud"
+2017-05-18T22:39:40: Analyzing "azure.common.credentials"
+2017-05-18T22:39:40: Analyzing "azure.common.exceptions"
+2017-05-18T22:39:40: Analyzing "azure.common"
+2017-05-18T22:39:40: Analyzing "azure.servicebus.constants"
+2017-05-18T22:39:40: Analyzing "azure.servicebus.models"
+2017-05-18T22:39:40: Analyzing "azure.servicebus.servicebusservice"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._common_conversion"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._common_error"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._common_models"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._common_serialization"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._serialization"
+2017-05-18T22:39:40: Analyzing "azure.servicebus"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._http.httpclient"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._http.requestsclient"
+2017-05-18T22:39:40: Analyzing "azure.servicebus._http"
+2017-05-18T22:39:40: Starting analysis of 18 modules
+2017-05-18T22:39:43: Analysis complete
+2017-05-18T22:39:43: Saving group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure"
+2017-05-18T22:39:44: End of group "C:\Users\scheihal\Documents\Visual Studio 2015\Projects\PythonApplication1\WorkerRole1\env\Lib\site-packages\azure"
+2017-05-18T22:39:44: Deleting 0 files
+
+2017-05-18T22:47:03: Start analysis
+2017-05-18T22:47:04: [WARNING] Library was set explicitly - skipping path detection
+2017-05-18T22:47:04: IncludeModulesFromModulePath = win32com
+2017-05-18T22:47:04: Deleting 159 files

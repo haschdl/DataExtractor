@@ -1,0 +1,4 @@
+get_cli_profile
+get_azure_cli_credentials
+get_cli_active_cloud
+get_client_from_cli_profile

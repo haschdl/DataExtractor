@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="AzureServiceExtractor" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="DataExtractorWorkerRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="d9e75ea6-a187-4472-bc52-1f1d0ec3fec4" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="scheihal" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCECqJLgB6f5i6QJbHxEvZit0wDQYJKoZIhvcNAQEBBQAEggEAU6+MecmAsUP6nKlZxNn0heolwme3mpcFgUXel5M+8VkpOAheS4friUpxBhFFRM3E6PdjjGp7gn9PatTx7u7W5rLDQjM7S65En3JGvgMq7AwCOSxqQ1oAwzeAtWgEeFbrxooiCpbEnlXEWm5jUFnpi1XTa5afhveu6TLy0uk0rcikIQAg+sF2ChGgSCdiUlVw2txoYb5DLASzYfguVBSJCVPJzYj/Y/i73AwXL5vClKOYquPmZJq3ZSl1lDDJibeyJ3ZIQo1XuBjf51dwnl2KsQ9Lx1sraGS+GcFDwu6+M/U7Fr6d+H/kPLkG18T0FoQiA24aKErJgzoOr9fEBgGYjjAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECKUE96R0fNU8gBAK3j//ZqelWzPoIeBu7TV+" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2018-05-18T23:59:59.0000000+03:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="AA4D728E429FA2643971C6E3845B5E44122DD68F" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

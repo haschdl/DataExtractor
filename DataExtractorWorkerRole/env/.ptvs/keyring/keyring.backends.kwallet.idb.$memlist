@@ -1,0 +1,8 @@
+DBusKeyringKWallet4
+KeyringBackend
+absolute_import
+PasswordDeleteError
+properties
+PasswordSetError
+dbus
+DBusKeyring
